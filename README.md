@@ -1,13 +1,13 @@
 # Supply Chain Data Science Portfolio
 ## Honest Insights for Supply Chain Leaders
 
-Welcome. I build tools that solve real supply chain problems—the ones that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
+Welcome(:
 
-I've lived these problems. I've sent emails to 50 suppliers organizing forecasts in folders. I've spent 10 hours building a variance analysis only to have someone ask, "Is this price or volume?" I've watched CFOs dismiss supply chain improvements because the ROI was invisible.
+I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
 
-This portfolio is four tools that transform those headaches into clarity.
+This portfolio includes four tools that transform those headaches into clarity.
 
-## The Four Projects
+## The Four Projects (in progress)
 
 ### 1. [From Gut Feel to Forecast Confidence](https://github.com/[yourname]/forecast-confidence)
 **The demand planner's credibility problem**
