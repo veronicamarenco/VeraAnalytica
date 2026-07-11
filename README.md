@@ -171,7 +171,7 @@ I'm looking for supply chain roles in **Paris** where I can bring this combinati
 - Business acumen (speaking to engineers, analysts, CFOs)
 - Honest storytelling (data that's true, insights that matter)
 
-**[LinkedIn]((https://www.linkedin.com/in/vmarenco1/))**
+**[LinkedIn]((https://www.linkedin.com/in/vmarenco1/))**]
 
 ---
 
