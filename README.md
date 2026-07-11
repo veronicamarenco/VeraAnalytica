@@ -106,7 +106,7 @@ I've sent emails to 50 suppliers. I've built forecast models in Excel that took 
 
 **That's why I build these tools.**
 
-I speak the language of engineers (they run on numbers), business leaders (they run on dollars), and CFOs (they run on credibility). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be.
+I speak the language of engineers (they run on numbers), business leaders (they run on dollars), and the C-Suite (they run on credibility). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be.
 
 I'm also passionate about **data that's honest**. Not the data that tells the story you want to hear. The data that tells the story that's true. Because that's the only data worth acting on.
 
