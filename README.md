@@ -172,6 +172,7 @@ I'm looking for supply chain roles in **Paris** where I can bring this combinati
 - Honest storytelling (data that's true, insights that matter)
 
 **[LinkedIn]((https://www.linkedin.com/in/vmarenco1/))**]
+**[LinkedIn](https://linkedin.com/in/vmarenco1) | [Email](veronica.marenco26@gmail.com)**
 
 ---
 
