@@ -5,28 +5,11 @@ Welcome(:
 
 I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
 
-This portfolio includes four tools that transform those headaches into clarity.
+This portfolio includes three tools that transform those headaches into clarity.
 
-## The Four Projects (in progress)
+## The Three Projects (in progress)
 
-### 1. [From Gut Feel to Forecast Confidence](https://github.com/[yourname]/forecast-confidence)
-**The demand planner's credibility problem**
-
-Forecast misses happen. The spreadsheet has numbers, but it doesn't have answers. Was it seasonality? A promotion that didn't land? Market volatility? External shock?
-
-This tool identifies which signals actually drive your forecast errors—and quantifies them. Turns "I don't know why we missed" into "here's exactly what happened, and here's what to tune next time."
-
-**Impact:** If your forecast accuracy improves from 85% to 92%, that's fewer expedites, lower safety stock, and a supply chain that actually trusts the plan.
-
-- **Built with:** Python (Prophet/ARIMA), Pandas, Plotly, Streamlit
-- **Dataset:** 3 years of demand data with known seasonality, promotions, and external shocks
-- **Core insight:** Signals (trend, seasonality, promo, external) aren't equal. This tool tells you which ones matter.
-
-[→ Explore the full project](https://github.com/[yourname]/forecast-confidence)
-
----
-
-### 2. [Variance Decoded: The Story Behind Your Numbers](https://github.com/[yourname]/variance-decoded)
+### 1. [Variance Decoded: The Story Behind Your Numbers](https://github.com/[yourname]/variance-decoded)
 **The analyst's explanation nightmare**
 
 Every month: cost variance shows up. Finance asks why. You have 47 slides showing that it's complicated. They ask again. You're back to square one.
@@ -45,8 +28,8 @@ This tool segments variance automatically, flags what matters (the 20% that driv
 
 ---
 
-### 3. Supply Chain ROI Reality
-### From Savings to Strategic Investment: The Complete Financial Story
+### 2. [Savings to Strategic Investment: The Complete Financial Story](https://github.com/[yourname]/ROI)
+### Savings to Strategic Investment: The Complete Financial Story
 
 **What it does:**
 Links supply chain savings directly to infrastructure investment decisions. Shows: "Here's what we're saving. Here's what modernization costs. Here's when we break even. Here's the risk."
@@ -74,7 +57,26 @@ Links supply chain savings directly to infrastructure investment decisions. Show
 5. **Scenario Comparison** — Conservative vs. optimistic vs. pessimistic cases
 6. **Executive Summary** — One page showing: Savings → Investment → Payback
 
+[→ Explore the full project](https://github.com/[yourname]/forecast-confidence)
+
 ---
+### 3. [From Gut Feel to Forecast Confidence](https://github.com/[yourname]/forecast-confidence)
+**The demand planner's credibility problem**
+
+Forecast misses happen. The spreadsheet has numbers, but it doesn't have answers. Was it seasonality? A promotion that didn't land? Market volatility? External shock?
+
+This tool identifies which signals actually drive your forecast errors—and quantifies them. Turns "I don't know why we missed" into "here's exactly what happened, and here's what to tune next time."
+
+**Impact:** If your forecast accuracy improves from 85% to 92%, that's fewer expedites, lower safety stock, and a supply chain that actually trusts the plan.
+
+- **Built with:** Python (Prophet/ARIMA), Pandas, Plotly, Streamlit
+- **Dataset:** 3 years of demand data with known seasonality, promotions, and external shocks
+- **Core insight:** Signals (trend, seasonality, promo, external) aren't equal. This tool tells you which ones matter.
+
+[→ Explore the full project](https://github.com/[yourname]/forecast-confidence)
+
+---
+
 
 ## Why These Three?
 
