@@ -269,12 +269,10 @@
     color: var(--white-dim);
   }
 
-  /* SKILLS */
-
- /* SKILLS */
+/* SKILLS */
   .skills-grid {
     display: grid;
-    /* Automatically creates columns that fill the space evenly */
+    /* Keeps boxes perfectly even in size across a row */
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); 
     gap: 1rem;
   }
@@ -283,12 +281,18 @@
     background: var(--navy);
     border: 1px solid var(--border);
     padding: 1.25rem 1.5rem;
-    /* Height matches across a single row automatically due to CSS grid */
     display: flex;
     flex-direction: column;
+    /* Smooth 0.2-second transition back into place */
+    transition: background 0.2s, border-color 0.2s, transform 0.2s;
   }
 
-  /* Removed the interactive hover states to make them feel like static info boxes rather than buttons */
+  /* Restores the interactive hover states */
+  .skill-card:hover { 
+    background: var(--teal-glow); 
+    border-color: var(--teal); 
+    transform: translateY(-2px); /* Subtle lift effect */
+  }
   
   .skill-category {
     font-size: 0.6rem;
