@@ -6,7 +6,7 @@ Welcome(:
 
 I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
 
-This portfolio includes three tools that removes headaches to reveal clarity.
+This portfolio includes three tools that removes messy data into reliable insights.
 
 ---
 
