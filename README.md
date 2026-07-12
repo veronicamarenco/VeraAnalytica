@@ -177,8 +177,7 @@ Start with the project that resonates most with your industry. Or read all three
 ## Let's Connect
 
 I'm building supply chain data science projects in **Paris**, focused on luxury, aerospace, and tech industries.
-
-I bring:
+Skills:
 - Deep supply chain experience (aerospace, semiconductors, ERP systems)
 - Data science fundamentals (Python, SQL, statistics, visualization)
 - Business acumen (speaking to demand planners, analysts, CFOs, CIOs)
