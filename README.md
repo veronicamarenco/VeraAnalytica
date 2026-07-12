@@ -45,45 +45,38 @@ This tool segments variance automatically, flags what matters (the 20% that driv
 
 ---
 
-### 3. [Savings Attribution Engine: Prove Your Supply Chain ROI](https://github.com/[yourname]/savings-attribution)
-**The finance visibility gap**
+### 3. Supply Chain ROI Reality
+### From Savings to Strategic Investment: The Complete Financial Story
 
-You negotiated a better supplier contract. Your team optimized the network. Procurement got more aggressive on pricing. Finance asks: "How much of our margin improvement came from supply chain?"
+**What it does:**
+Links supply chain savings directly to infrastructure investment decisions. Shows: "Here's what we're saving. Here's what modernization costs. Here's when we break even. Here's the risk."
 
-You guess. They guess. $500K savings might be real or might be fiction.
+**For CFOs:**
+- Quantify supply chain improvements by lever (negotiation, process, network, quality)
+- Model the ROI of cloud infrastructure investment
+- Sensitivity analysis: "What if savings grow 30% faster with better systems?"
 
-This tool attributes cost reductions to their actual source: negotiation, process improvement, network optimization, quality improvement, or volume consolidation. It builds the financial case so CFOs actually believe you.
+**For CIOs:**
+- Build total cost of ownership for cloud vs. on-prem
+- Quantify migration risk (downtime, delays, budget overruns)
+- Scenario modeling: "What if we migrate in phases instead of big bang?"
 
-**Impact:** Supply chain improvements are invisible to finance. This tool makes them visible. $5M in provable savings beats $15M in claimed savings. Credibility = future investment.
+**For Supply Chain Leaders:**
+- Make the case that investments in better systems unlock more savings
+- Show which improvements matter most to finance
+- Align operations with technology strategy
 
-- **Built with:** SQL (purchasing history), Python (Pandas, NumPy), Plotly (waterfall), Python-pptx (reporting)
-- **Dataset:** 3-year purchasing history with known initiatives (negotiations, network changes, process improvements)
-- **Core insight:** Savings don't appear magically. They come from specific levers. This tool quantifies which lever drove which savings.
-
-[→ Explore the full project](https://github.com/[yourname]/savings-attribution)
-
----
-
-### 4. [Cloud Migration Reality Check: ERP On-Prem vs. Cloud TCO](https://github.com/[yourname]/cloud-migration-tco)
-**The strategic decision-maker's risk**
-
-Your CTO says cloud saves money. Every vendor claims 30% savings. Your CFO is skeptical. Your supply chain team worries about downtime.
-
-Nobody has a model that accounts for *your* company's specific situation. So you guess.
-
-This tool builds a 5-year financial model: on-premise vs. cloud, for your supply chain ERP. Shows capex, opex, migration costs, downtime risk, and breaks even when. Not the vendor's model. *Your* model.
-
-**Impact:** If your analysis shows cloud breaks even in Year 4 (not Year 2 like the vendor claimed), you have realistic expectations. If it quantifies that 3 months of migration risk costs $X, you can budget for contingency.
-
-- **Built with:** Python (Pandas, NumPy, Scipy), Streamlit, Plotly
-- **Dataset:** Hardware, software, licensing, staffing costs (5-year projection with sensitivity analysis)
-- **Core insight:** Cloud isn't always cheaper. It depends on your baseline, growth rate, and risk tolerance. This tool shows your specific math.
-
-[→ Explore the full project](https://github.com/[yourname]/cloud-migration-tco)
+**Key features:**
+1. **Savings Attribution Dashboard** — Where does our $5M come from?
+2. **Infrastructure Cost Model** — Cloud vs. on-prem TCO
+3. **ROI Calculator** — When does cloud investment pay for itself?
+4. **Risk Quantification** — What's the cost of downtime? Budget overrun?
+5. **Scenario Comparison** — Conservative vs. optimistic vs. pessimistic cases
+6. **Executive Summary** — One page showing: Savings → Investment → Payback
 
 ---
 
-## Why These Four?
+## Why These Three?
 
 They answer the questions that actually matter:
 
@@ -91,8 +84,7 @@ They answer the questions that actually matter:
 |----------|---------|----------|
 | "Why did our forecast miss?" | Forecast Confidence | Demand Planners |
 | "How do we explain our cost variance?" | Variance Decoded | Supply Chain Analysts |
-| "Where's the ROI from our supply chain improvements?" | Savings Attribution | CFOs |
-| "Should we migrate to cloud?" | Cloud Migration TCO | CIOs / Strategic Leaders |
+| "If we invest in cloud and unlock better forecasting, how much more can we save?" | Cloud Migration | CFOs CIOs|
 
 Together, they tell a story: **From tactical clarity → to analytical rigor → to financial visibility → to strategic confidence.**
 
