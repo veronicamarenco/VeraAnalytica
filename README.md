@@ -1,5 +1,3 @@
-# Supply Chain Data Science Portfolio
-## Honest Insights for Supply Chain Leaders
 
 # Supply Chain Data Science Portfolio
 ## Honest Insights for Supply Chain Leaders
