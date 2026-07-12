@@ -712,12 +712,62 @@
 </section>
 
 
-       <!-- /* Confidential Project LIST */ -->
-<section id="Confidential Projects">
+<style>
+  /* Container for the image placeholder */
+  .project-img-placeholder {
+    background: var(--navy-mid, #1b263b); /* Fallback color if variable isn't loaded */
+    border: 1px dashed var(--border, #415a77);
+    aspect-ratio: 16 / 10;
+    min-height: 160px;
+    
+    /* Crucial for keeping everything contained and centered */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden; 
+    padding: 1rem; /* Gives the logo breathing room so it doesn't touch the borders */
+    box-sizing: border-box;
+  }
+
+  /* Image layout constraint */
+  .project-uploaded-img {
+    width: 100%;
+    height: 100%;
+    /* 'contain' guarantees the logo scales down completely without stretching */
+    object-fit: contain; 
+  }
+
+  /* Layout rules for the project lists */
+  .projects-list {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+
+  .project-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1.5rem;
+    align-items: center;
+  }
+
+  .project-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  @media (max-width: 768px) {
+    .project-item {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+<section id="Confidential-Projects">
   <div class="section-inner">
     <div class="section-label">Work</div>
     <h2>Confidential Projects</h2>
-    <div class="projects-list">
       
 <div class="project-item">
   <div class="project-img-placeholder">
