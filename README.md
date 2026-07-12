@@ -2,11 +2,11 @@
 # Supply Chain Data Science Portfolio
 ## Honest Insights for Supply Chain Leaders
 
-Welcome. I build tools that solve real supply chain problems—the ones that keep planners up at night, make analysts struggle to explain costs, and leave CFOs skeptical of modern supply chain ROI claims.
+Welcome(:
 
-I've lived these problems. I've watched demand planners miss seasonal luxury trends. I've seen aerospace supply chain leaders struggle to explain cost variance to finance. I've watched tech companies debate whether supply chain modernization is worth the investment.
+I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
 
-This portfolio is three tools that transform those headaches into clarity—each built for a different industry and audience.
+This portfolio includes three tools that removes headaches to reveal clarity.
 
 ---
 
@@ -24,8 +24,8 @@ This tool identifies which signals actually drive luxury demand—trend shifts f
 **Impact:** If you can predict a fashion trend 4 weeks early instead of 4 weeks late, you stock the right items before competitors do. That's margin protection.
 
 - **Built with:** Python (Prophet for seasonality), Pandas, Plotly (interactive confidence bands), Streamlit
-- **Dataset:** 4 years of Hermès Birkin/Kelly sales across leather types, colors, regions, with known trend shifts (celebrity moments, fashion weeks, TikTok virality)
-- **Core insight:** Luxury demand is driven by psychology and scarcity, not logic. This tool identifies trend breaks (structural shifts vs. seasonal noise) so you can react fast.
+- **Dataset:** 4 years of Hermès Birkin/Kelly sales across leather types, colors, regions, with known trend shifts (celebrity moments, fashion weeks, virality)
+- **Insight:** Luxury demand is driven by psychology and scarcity, not logic. This tool identifies trend breaks (structural shifts vs. seasonal noise) so you can react fast.
 
 [→ Explore the full project](https://github.com/[yourname]/forecast-confidence-luxury)
 
@@ -97,13 +97,13 @@ Together, they show progression: **From understanding your customer's psychology
 
 ## My Background
 
-I've worked across **luxury goods, aerospace, and semiconductors**—industries where supply chain decisions directly impact margin, safety, and competitive advantage.
+I've worked across ** aerospace, and semiconductors**—industries where supply chain decisions directly impact margin, safety, and competitive advantage.
 
-I've watched Hermès planners miss seasonal luxury trends because their models treated demand like Walmart. I've seen aerospace supply chain leaders struggle to explain $25M cost variances to skeptical CFOs. I've watched tech companies debate whether $50M supply chain modernization is worth the investment—without a unified financial model.
+I've watched planners miss builds because their models treated weren't rigourous enough to factor in more than 1 or 2 variables at a time. I've seen aerospace supply chain leaders struggle to explain $25M cost variances to skeptical CFOs. I've watched tech companies debate whether $50M supply chain modernization is worth the investment—without a unified financial model.
 
 **That's why I build these tools.**
 
-I speak the language of demand planners (they live with forecast errors), supply chain analysts (they drown in complexity), and CFOs/CIOs (they demand clarity). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be opaque.
+I speak the language of engineers (they run on numbers), business leaders (they run on dollars), and the C-Suite (they run on credibility). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be.
 
 I'm passionate about **data that's honest**. Not the data that tells the story you want to hear. The data that tells the story that's actually true. Because that's the only data worth acting on.
 
@@ -176,7 +176,7 @@ Start with the project that resonates most with your industry. Or read all three
 
 ## Let's Connect
 
-I'm building a supply chain data science practice in **Paris**, focused on luxury, aerospace, and tech industries.
+I'm building supply chain data science projects in **Paris**, focused on luxury, aerospace, and tech industries.
 
 I bring:
 - Deep supply chain experience (aerospace, semiconductors, ERP systems)
