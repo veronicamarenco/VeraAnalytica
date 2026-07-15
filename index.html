@@ -950,8 +950,10 @@
   <div class="section-inner">
     <div class="section-label">Connect</div>
     <h2>Get In Touch</h2>
-    <div class="contact-grid">
-      <div class="contact-info">
+    
+    <div class="contact-grid" style="display: flex; flex-wrap: wrap; gap: 3rem; align-items: flex-start; justify-content: space-between;">
+      
+      <div class="contact-info" style="flex: 1 1 400px; max-width: 100%;">
         <p>Open to new opportunities in data analytics, supply chain intelligence, and sustainability analytics. Based in Courbevoie, France — available for hybrid and remote roles.</p>
         <div class="contact-links">
           <a href="mailto:veronica.marenco26@gmail.com" class="contact-link">
@@ -967,8 +969,29 @@
             github.com/veraanalytica
           </a>
         </div>
+      </div>
       
-  </section>
+      <div style="flex: 1 1 400px; max-width: 100%;">
+        <form class="contact-form" onsubmit="handleSubmit(event)">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input type="text" id="name" placeholder="Your name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="your@email.com" required>
+          </div>
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" placeholder="Tell me about the opportunity..." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message</button>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</section>
 
       <div>
         <form class="contact-form" onsubmit="handleSubmit(event)">
