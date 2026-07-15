@@ -6,13 +6,13 @@ Welcome(:
 
 I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
 
-This portfolio includes three tools that removes messy data into reliable insights.
+This portfolio includes three tools that help transform spreadsheets of data into valuable stories and insights for leadership.
 
 ---
 
 ## The Three Projects
 
-### 1. [From Gut Feel to Forecast Confidence](https://github.com/[yourname]/forecast-confidence-luxury)
+### 1. [From Gut Feel to Forecast Confidence](https://github.com/[VeraAnalytica]/forecast-confidence-luxury)
 **Luxury & Beauty: Demand Planning for Hermès, Dior, LVMH**
 
 Luxury demand isn't rational. It's driven by psychology: scarcity, celebrity endorsement, trend velocity, and the seasonal emotional spending patterns of wealth.
