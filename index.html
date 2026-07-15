@@ -992,6 +992,75 @@
   <button type="submit" class="btn btn-primary" style="align-self:flex-start;">Send Message</button>
 </form>
       </div>
+      <script>
+  // Handle form submission in the background (AJAX)
+  const form = document.getElementById('myContactForm');
+  
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const btn = form.querySelector('button');
+    
+    // Change button to show loading status
+    btn.textContent = 'Sending...';
+    btn.disabled = true;
+
+    const formData = new FormData(form);
+    const object = Object.fromEntries(formData);
+    const json = JSON.stringify(object);
+
+    fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            },
+            body: json
+        })
+        .then(async (response) => {
+            let json = await response.json();
+            if (response.status == 200) {
+                // Success animation
+                btn.textContent = 'Sent ✓';
+                btn.style.background = '#410C13';
+                btn.style.color = '#ffffff';
+                form.reset();
+            } else {
+                console.log(response);
+                btn.textContent = 'Error!';
+            }
+        })
+        .catch(error => {
+            console.log(error);
+            btn.textContent = 'Error!';
+        })
+        .then(() => {
+            // Reset button state after 3 seconds
+            setTimeout(() => {
+                btn.textContent = 'Send Message';
+                btn.style.background = '';
+                btn.style.color = '';
+                btn.disabled = false;
+            }, 3000);
+        });
+  });
+
+  // Scroll animations
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.style.opacity = '1';
+        e.target.style.transform = 'translateY(0)';
+      }
+    });
+  }, { threshold: 0.08 });
+
+  document.querySelectorAll('.skill-card, .edu-card, .timeline-item, .stat-box').forEach(el => {
+    el.style.opacity = '0';
+    el.style.transform = 'translateY(16px)';
+    el.style.transition = 'opacity 0.45s ease, transform 0.45s ease';
+    observer.observe(el);
+  });
+</script>
 
     </div>
   </div>
