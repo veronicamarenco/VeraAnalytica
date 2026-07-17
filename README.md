@@ -31,7 +31,7 @@ This tool identifies which signals actually drive luxury demand—trend shifts f
 
 ---
 
-### 2. [Variance Decoded: The Story Behind Your Numbers](https://github.com/[yourname]/variance-decoded-aerospace)
+### 2. [Variance Decoded: The Story Behind Your Numbers](https://github.com/veronicamarenco/variance-decoded-aerospace)
 **Aerospace & Defense: Cost Variance Analysis for Boeing, Airbus, Raytheon**
 
 Your company ordered $500M of materials. Actual cost: $525M. Variance: $25M unfavorable.
@@ -54,7 +54,7 @@ This tool segments aerospace cost variance automatically into price, volume, mix
 
 ---
 
-### 3. [Supply Chain ROI Reality](https://github.com/[yourname]/supply-chain-roi-reality-tech)
+### 3. [Supply Chain ROI Reality](https://github.com/veronicamarenco/supply-chain-roi-reality-tech)
 **Tech (Google, Apple, Microsoft): Cloud Modernization ROI for Scale**
 
 Your legacy ERP is 12 years old. Demand planning is Excel + Python scripts. Variance analysis is quarterly PDF reports. Your supplier portal is 1990s web interface.
