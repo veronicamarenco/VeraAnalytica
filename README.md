@@ -144,21 +144,6 @@ No dependencies on expensive tools. No black boxes. Just Python, SQL, and clear 
 
 ---
 
-## How to Explore
-
-Each project has its own GitHub repository with:
-
-- **README** — the problem, solution, and impact
-- **Notebooks** — step-by-step analysis (starting with exploration → ending with insights)
-- **Source code** — production-ready Python modules
-- **Streamlit app** — interactive dashboard (live demo)
-- **Data** — sample datasets (synthetic but realistic)
-- **Docs** — methodology and assumptions
-
-Start with the one that resonates most. Or read them all—they build on each other.
-
----
-
 ## How to Explore These Projects
 
 Each project has its own GitHub repository with:
