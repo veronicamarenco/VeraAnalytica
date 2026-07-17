@@ -12,7 +12,7 @@ This portfolio includes three tools that help transform spreadsheets of data int
 
 ## The Three Projects
 
-### 1. [From Gut Feel to Forecast Confidence](https://github.com/[VeraAnalytica]/forecast-confidence-luxury)
+### 1. [From Gut Feel to Forecast Confidence](https://github.com/veronicamarenco/forecast-confidence-luxury)
 **Luxury & Beauty: Demand Planning for Hermès, Dior, LVMH**
 
 Luxury demand isn't rational. It's driven by psychology: scarcity, celebrity endorsement, trend velocity, and the seasonal emotional spending patterns of wealth.
