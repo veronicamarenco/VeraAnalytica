@@ -1,3 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog | VeraAnalytica</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=DM+Mono:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --mahogany: #410C13;
+      --evergreen: #132A25;
+      --steel: #799496;
+      --bg: #FFFFFF;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      background: var(--bg);
+      color: var(--evergreen);
+      font-family: 'DM Mono', monospace;
+      line-height: 1.6;
+    }
+    nav {
+      position: fixed;
+      top: 0; left: 0; right: 0;
+      z-index: 100;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 1.25rem 4rem;
+      background: rgba(205,215,214,0.95);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid rgba(65, 12, 19, 0.2);
+    }
+    .nav-logo {
+      font-family: 'Playfair Display', serif;
+      font-weight: 700;
+      font-size: 1.15rem;
+      color: var(--evergreen);
+      text-decoration: none;
+    }
+    .nav-logo span { color: var(--mahogany); }
+    .back-link {
+      color: var(--steel);
+      text-decoration: none;
+      font-size: 0.75rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      transition: color 0.2s;
+    }
+    .back-link:hover { color: var(--mahogany); }
+    main {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 8rem 4rem 4rem;
+    }
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+      margin-bottom: 2rem;
+      color: var(--evergreen);
+    }
+    .blog-grid {
+      display: grid;
+      gap: 2.5rem;
+      margin-top: 3rem;
+    }
+    .blog-post {
+      padding-bottom: 2.5rem;
+      border-bottom: 1px solid rgba(65, 12, 19, 0.1);
+    }
+    .blog-post:last-child { border-bottom: none; }
+    .blog-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.8rem;
+      margin-bottom: 0.5rem;
+      color: var(--evergreen);
+    }
+    .blog-title a {
+      color: inherit;
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+    .blog-title a:hover { color: var(--mahogany); }
+    .blog-meta {
+      font-size: 0.85rem;
+      color: var(--steel);
+      margin-bottom: 1rem;
+    }
+    .blog-excerpt {
+      color: var(--evergreen);
+      margin-bottom: 1rem;
+    }
+    .read-more {
+      color: var(--mahogany);
+      text-decoration: none;
+      font-weight: 500;
+      font-size: 0.9rem;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .coming-soon {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--steel);
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="../" class="nav-logo">Vera<span>Analytica</span></a>
+    <a href="../" class="back-link">← Back to Portfolio</a>
+  </nav>
+
+  <main>
+    <h1>Blog</h1>
+    <p style="color: var(--steel); margin-bottom: 2rem;">Data, supply chain, and sustainability insights</p>
+
+    <div class="blog-grid">
+      <div class="coming-soon">
+        <p>Articles and case studies coming soon.</p>
+        <p>Check back for deep dives into demand planning, variance analysis, and data-driven supply chain strategy.</p>
+      </div>
+    </div>
+  </main>
+</body>
+</html>
+
 # Data & Sustainability Insights
 
 ### Thoughts on Analytics, Supply Chain, and ESG
