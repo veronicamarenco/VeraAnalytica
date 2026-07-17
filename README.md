@@ -10,7 +10,7 @@ This portfolio includes three tools that help transform spreadsheets of data int
 
 ---
 
-## The Three Projects
+## Projects
 
 ### 1. [From Gut Feel to Forecast Confidence](https://github.com/veronicamarenco/forecast-confidence-luxury)
 **Luxury & Beauty: Demand Planning for Hermès, Dior, LVMH**
