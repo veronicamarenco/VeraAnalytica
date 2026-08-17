@@ -1,12 +1,12 @@
 
 # Supply Chain Data Science Portfolio
-## Honest Insights for Supply Chain Leaders
+## Honest Insights for Supply Chain Professionals
 
 Welcome(:
 
-I build tools that solve supply chain problems. The kind that keep planners up at night, make analysts spend weekends explaining variances, and leave CFOs skeptical of ROI claims.
+I build tools to solve supply chain problems.
 
-This portfolio includes three tools that help transform spreadsheets of data into valuable stories and insights for leadership.
+This portfolio includes three tools that help transform arbitrary spreadsheets into valuable stories and insights for leadership.
 
 ---
 
