@@ -9,7 +9,32 @@ I build tools to solve supply chain problems.
 This portfolio includes three tools that help transform arbitrary spreadsheets into valuable stories and insights for leadership.
 
 ---
+## My Background
 
+I've worked across **aerospace, sustainability and semiconductor**—industries where supply chain decisions directly impact margin, safety, and competitive advantage.
+
+I've watched planners miss builds because their models treated weren't rigourous enough to factor in more than 1 or 2 variables at a time. I've seen aerospace supply chain leaders struggle to explain $25M cost variances to skeptical CFOs. I've watched tech companies debate whether $50M supply chain modernization is worth the investment—without a unified financial model.
+
+**That's why I build these tools.**
+
+I speak the language of engineers (they run on numbers), business leaders (they run on dollars), and the C-Suite (they run on credibility). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be.
+
+I'm passionate about **data that's honest**. Not the data that tells the story you want to hear. The data that tells the story that's actually true. Because that's the only data worth acting on.
+
+---
+## Three Projects
+
+Each addresses a different industry and audience:
+
+| Project | Industry | Problem | Audience | Core Insight |
+|---------|----------|---------|----------|--------------|
+| **Forecast Confidence** | Luxury & Beauty | Demand driven by psychology, not seasonality | Demand Planners | Scarcity and trend velocity drive luxury demand—not rational forecasting |
+| **Variance Decoded** | Aerospace & Defense | Cost variance hides risk management and good decisions | Supply Chain Leaders + CFO | Variance tells a safety/quality/schedule story, not just budget story |
+| **Supply Chain ROI Reality** | Tech | Modernization debate stalls without unified financial model | CFO + CIO + Supply Chain | Investment ROI is guaranteed. The question is execution risk. |
+
+Together, they show progression: **From understanding your customer's psychology → to explaining supply chain complexity → to enabling strategic modernization.**
+
+---
 ## Projects
 
 ### 1. [From Gut Feel to Forecast Confidence](https://github.com/veronicamarenco/forecast-confidence-luxury)
@@ -78,34 +103,6 @@ It shows CFOs the ROI (payback in 3 months, NPV $485M over 5 years). It shows CI
 - **Core insight:** Cloud supply chain modernization ROI is guaranteed (even pessimistic scenario breaks even in Year 2). The real risk is execution, not financial risk.
 
 [→ Explore the full project](https://github.com/[yourname]/supply-chain-roi-reality-tech)
-
----
-
-## Why These Three?
-
-Each addresses a different industry and audience:
-
-| Project | Industry | Problem | Audience | Core Insight |
-|---------|----------|---------|----------|--------------|
-| **Forecast Confidence** | Luxury & Beauty | Demand driven by psychology, not seasonality | Demand Planners | Scarcity and trend velocity drive luxury demand—not rational forecasting |
-| **Variance Decoded** | Aerospace & Defense | Cost variance hides risk management and good decisions | Supply Chain Leaders + CFO | Variance tells a safety/quality/schedule story, not just budget story |
-| **Supply Chain ROI Reality** | Tech | Modernization debate stalls without unified financial model | CFO + CIO + Supply Chain | Investment ROI is guaranteed. The question is execution risk. |
-
-Together, they show progression: **From understanding your customer's psychology → to explaining supply chain complexity → to enabling strategic modernization.**
-
----
-
-## My Background
-
-I've worked across **aerospace, sustainability and semiconductor**—industries where supply chain decisions directly impact margin, safety, and competitive advantage.
-
-I've watched planners miss builds because their models treated weren't rigourous enough to factor in more than 1 or 2 variables at a time. I've seen aerospace supply chain leaders struggle to explain $25M cost variances to skeptical CFOs. I've watched tech companies debate whether $50M supply chain modernization is worth the investment—without a unified financial model.
-
-**That's why I build these tools.**
-
-I speak the language of engineers (they run on numbers), business leaders (they run on dollars), and the C-Suite (they run on credibility). I understand that supply chain is complex, messy, and *human*—but that doesn't mean insights have to be.
-
-I'm passionate about **data that's honest**. Not the data that tells the story you want to hear. The data that tells the story that's actually true. Because that's the only data worth acting on.
 
 ---
 
