@@ -22,7 +22,7 @@ I speak the language of engineers (they run on numbers), business leaders (they 
 I'm passionate about **data that's honest**. Not the data that tells the story you want to hear. The data that tells the story that's actually true. Because that's the only data worth acting on.
 
 ---
-## Three Projects
+## Summary of Projects:
 
 Each addresses a different industry and audience:
 
